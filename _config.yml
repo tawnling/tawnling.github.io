@@ -128,7 +128,7 @@ flowchart:
 
 # 动漫人物
 live2d:
-  enable: True
+  enable: False
   scriptFrom: local
   pluginRootPath: live2dw/
   pluginJsPath: lib/

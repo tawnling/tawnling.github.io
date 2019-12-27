@@ -4,7 +4,7 @@ top: true
 cover: false
 toc: true
 mathjax: false
-img: http://img4.imgtn.bdimg.com/it/u=1657471424,2319316184&fm=26&gp=0.jpg
+img: https://i.loli.net/2019/12/27/q132ijNetGJZ9dh.jpg
 date: 2019-09-27 01:01:16
 password:
 summary: 内部排序算法总结

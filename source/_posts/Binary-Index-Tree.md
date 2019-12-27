@@ -4,7 +4,7 @@ top: true
 cover: false
 toc: true
 mathjax: true
-img: http://img3.imgtn.bdimg.com/it/u=2387911928,2700617596&fm=214&gp=0.jpg
+img: https://i.loli.net/2019/12/27/aTLqjwRbMOIXvG9.jpg
 date: 2019-10-03 19:53:31
 password:
 summary: 树状数组详解

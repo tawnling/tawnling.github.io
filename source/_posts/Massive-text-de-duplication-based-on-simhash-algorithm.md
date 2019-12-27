@@ -4,7 +4,7 @@ top: true
 cover: true
 toc: true
 mathjax: false
-img: http://pic.qjimage.com/chineseview054/high/456-1584.jpg
+img: https://i.loli.net/2019/12/27/1GYxHfAwTPEyLoj.jpg
 date: 2019-10-10 14:59:25
 password:
 summary: SimHash是一种局部敏感hash，它也是Google公司进行海量网页去重使用的主要算法，本文利用simhash来解决海量文本去重实例问题。

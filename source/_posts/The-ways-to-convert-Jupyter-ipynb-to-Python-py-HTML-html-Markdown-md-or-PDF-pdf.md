@@ -1,13 +1,11 @@
 ---
-title: >-
-  The ways to convert Jupyter(.ipynb) to Python(.py), HTML(.html), Markdown(.md)
-  or PDF(.pdf)
+title: The ways to convert Jupyter(.ipynb) to Python(.py), HTML(.html), Markdown(.md) or PDF(.pdf)
 top: false
 cover: false
 toc: true
 mathjax: false
 date: 2019-10-18 14:38:53
-img: http://img1.imgtn.bdimg.com/it/u=2743268655,1778161208&fm=26&gp=0.jpg
+img: https://i.loli.net/2019/12/27/Y4QfutAjSLIPxNJ.jpg
 password:
 summary: 将ipynb转换为py,html，md，pdf等格式
 tags:

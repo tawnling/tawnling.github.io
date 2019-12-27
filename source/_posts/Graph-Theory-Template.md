@@ -5,7 +5,7 @@ cover: false
 toc: true
 mathjax: false
 date: 2019-09-27 00:12:59
-img: http://img2.imgtn.bdimg.com/it/u=2375282157,3424046871&fm=26&gp=0.jpg
+img: https://i.loli.net/2019/12/27/2HxiPN5M7Bu9Efo.jpg
 password:
 summary: 关于图论的一些模板代码
 tags:

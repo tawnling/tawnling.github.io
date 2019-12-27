@@ -5,7 +5,7 @@ cover: false
 toc: true
 mathjax: false
 date: 2019-11-28 01:07:16
-img: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574886235908&di=008c1acad9f138c79db733457c3ed02a&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fcefc1e178a82b901086841e0798da9773812ef18.jpg
+img: https://i.loli.net/2019/12/27/vqdMbAjahHJk9ol.jpg
 password:
 summary: 使用K-Means进行聚类的简单理解和和代码实现
 tags:

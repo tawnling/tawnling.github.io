@@ -4,7 +4,7 @@ top: false
 cover: false
 toc: true
 mathjax: false
-img: http://img4.imgtn.bdimg.com/it/u=4009526597,3442053381&fm=26&gp=0.jpg
+img: https://i.loli.net/2019/12/27/SkPOE1JLTd9YcHm.jpg
 date: 2019-11-03 13:51:36
 password:
 summary: Daily New Words

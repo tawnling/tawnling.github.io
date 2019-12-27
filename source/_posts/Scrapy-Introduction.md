@@ -4,7 +4,7 @@ top: true
 cover: true
 toc: true
 mathjax: false
-img: http://img1.imgtn.bdimg.com/it/u=3010015630,3017077777&fm=26&gp=0.jpg
+img: https://i.loli.net/2019/12/27/uIeOal31sLWcQER.jpg
 date: 2019-10-03 19:18:34
 password:
 summary: Scrapy（/ˈskreɪpi/) 是一个Python编写的开源网络爬虫框架。它是一个被设计用于爬取网络数据、提取结构性数据的程序框架。

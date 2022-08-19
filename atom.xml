@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tawn&#39;s blog</title>
+  
+  <subtitle>Tawn</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://tawnling.github.io/"/>
+  <updated>2022-08-19T03:00:33.624Z</updated>
+  <id>https://tawnling.github.io/</id>
+  
+  <author>
+    <name>Tawn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Some useful scripts</title>
+    <link href="https://tawnling.github.io/2019/11/28/some-useful-scripts/"/>
+    <id>https://tawnling.github.io/2019/11/28/some-useful-scripts/</id>
+    <published>2019-11-28T05:51:26.000Z</published>
+    <updated>2022-08-19T03:00:33.624Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;利用json进行MongoDB文件转移&quot;&gt;&lt;a href=&quot;#利用json进行MongoDB文件转移&quot; class=&quot;headerlink&quot; title=&quot;利用json进行MongoDB文件转移&quot;&gt;&lt;/a&gt;利用json进行MongoDB文件转移&lt;/h2&gt;&lt;pre
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Scripts" scheme="https://tawnling.github.io/categories/Scripts/"/>
+    
+    
+      <category term="Scripts" scheme="https://tawnling.github.io/tags/Scripts/"/>
+    
+      <category term="json" scheme="https://tawnling.github.io/tags/json/"/>
+    
+      <category term="MongoDB" scheme="https://tawnling.github.io/tags/MongoDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>K-Means-Simple understanding and code implementation</title>
+    <link href="https://tawnling.github.io/2019/11/28/k-means-simple-understanding-and-code-implementation/"/>
+    <id>https://tawnling.github.io/2019/11/28/k-means-simple-understanding-and-code-implementation/</id>
+    <published>2019-11-27T17:07:16.000Z</published>
+    <updated>2022-08-19T03:00:33.623Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、聚类定义&quot;&gt;&lt;a href=&quot;#一、聚类定义&quot; class=&quot;headerlink&quot; title=&quot;一、聚类定义&quot;&gt;&lt;/a&gt;一、聚类定义&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;聚类分析(cluster
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ML" scheme="https://tawnling.github.io/categories/ML/"/>
+    
+    
+      <category term="ML" scheme="https://tawnling.github.io/tags/ML/"/>
+    
+      <category term="Clustering" scheme="https://tawnling.github.io/tags/Clustering/"/>
+    
+      <category term="KMeans" scheme="https://tawnling.github.io/tags/KMeans/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Algorithm Problem List</title>
+    <link href="https://tawnling.github.io/2019/11/08/algorithm-problem-list/"/>
+    <id>https://tawnling.github.io/2019/11/08/algorithm-problem-list/</id>
+    <published>2019-11-08T12:59:06.000Z</published>
+    <updated>2022-08-19T03:00:33.620Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;递归&quot;&gt;&lt;a href=&quot;#递归&quot; class=&quot;headerlink&quot; title=&quot;递归&quot;&gt;&lt;/a&gt;递归&lt;/h2&gt;&lt;p&gt;1.&lt;a href=&quot;/2018/12/17/luogup1028/&quot;&gt;luoguP1028 数的计算&lt;/a&gt;&lt;br&gt;2.&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Algorithm" scheme="https://tawnling.github.io/categories/Algorithm/"/>
+    
+    
+      <category term="DP" scheme="https://tawnling.github.io/tags/DP/"/>
+    
+      <category term="Graph Theory" scheme="https://tawnling.github.io/tags/Graph-Theory/"/>
+    
+      <category term="Algorithm" scheme="https://tawnling.github.io/tags/Algorithm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily New Words</title>
+    <link href="https://tawnling.github.io/2019/11/03/daily-new-words/"/>
+    <id>https://tawnling.github.io/2019/11/03/daily-new-words/</id>
+    <published>2019-11-03T05:51:36.000Z</published>
+    <updated>2022-08-19T03:00:33.620Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;29-Dec&quot;&gt;&lt;a href=&quot;#29-Dec&quot; class=&quot;headerlink&quot; title=&quot;29 Dec&quot;&gt;&lt;/a&gt;29 Dec&lt;/h2&gt;&lt;h2 id=&quot;26-Oct&quot;&gt;&lt;a href=&quot;#26-Oct&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/categories/English/"/>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/tags/English/"/>
+    
+      <category term="Vocabulary" scheme="https://tawnling.github.io/tags/Vocabulary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Apache Kafka Notes</title>
+    <link href="https://tawnling.github.io/2019/11/03/apache-kafka-notes/"/>
+    <id>https://tawnling.github.io/2019/11/03/apache-kafka-notes/</id>
+    <published>2019-11-03T03:52:37.000Z</published>
+    <updated>2022-08-19T03:00:33.620Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/11/03/KztPYLn7qFTNegB.jpg&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一、概述&quot;&gt;&lt;a href=&quot;#一、概述&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Big Data" scheme="https://tawnling.github.io/categories/Big-Data/"/>
+    
+    
+      <category term="Kafka" scheme="https://tawnling.github.io/tags/Kafka/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Daily Tasks</title>
+    <link href="https://tawnling.github.io/2019/10/19/daily-tasks/"/>
+    <id>https://tawnling.github.io/2019/10/19/daily-tasks/</id>
+    <published>2019-10-19T13:49:18.000Z</published>
+    <updated>2022-08-19T03:00:33.621Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;25th-Oct&quot;&gt;&lt;a href=&quot;#25th-Oct&quot; class=&quot;headerlink&quot; title=&quot;25th Oct&quot;&gt;&lt;/a&gt;25th Oct&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;You love me. I love you
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Others" scheme="https://tawnling.github.io/categories/Others/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>IELTS Reading</title>
+    <link href="https://tawnling.github.io/2019/10/18/ielts-reading/"/>
+    <id>https://tawnling.github.io/2019/10/18/ielts-reading/</id>
+    <published>2019-10-18T15:51:31.000Z</published>
+    <updated>2022-08-19T03:00:33.623Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;The-Economist&quot;&gt;&lt;a href=&quot;#The-Economist&quot; class=&quot;headerlink&quot; title=&quot;The Economist&quot;&gt;&lt;/a&gt;The Economist&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/categories/English/"/>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/tags/English/"/>
+    
+      <category term="IELTS" scheme="https://tawnling.github.io/tags/IELTS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Useful Articles</title>
+    <link href="https://tawnling.github.io/2019/10/18/useful-articles/"/>
+    <id>https://tawnling.github.io/2019/10/18/useful-articles/</id>
+    <published>2019-10-18T07:23:03.000Z</published>
+    <updated>2022-08-19T03:00:33.625Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;待学&quot;&gt;&lt;a href=&quot;#待学&quot; class=&quot;headerlink&quot; title=&quot;待学&quot;&gt;&lt;/a&gt;待学&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;无聊了就来学习学习吧！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Others" scheme="https://tawnling.github.io/categories/Others/"/>
+    
+    
+      <category term="htop" scheme="https://tawnling.github.io/tags/htop/"/>
+    
+      <category term="vim" scheme="https://tawnling.github.io/tags/vim/"/>
+    
+      <category term="multiprocessing" scheme="https://tawnling.github.io/tags/multiprocessing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The ways to convert Jupyter(.ipynb) to Python(.py), HTML(.html), Markdown(.md) or PDF(.pdf)</title>
+    <link href="https://tawnling.github.io/2019/10/18/the-ways-to-convert-jupyter-ipynb-to-python-py-html-html-markdown-md-or-pdf-pdf/"/>
+    <id>https://tawnling.github.io/2019/10/18/the-ways-to-convert-jupyter-ipynb-to-python-py-html-html-markdown-md-or-pdf-pdf/</id>
+    <published>2019-10-18T06:38:53.000Z</published>
+    <updated>2022-08-19T03:00:33.625Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;nbconvert&quot;&gt;&lt;a href=&quot;#nbconvert&quot; class=&quot;headerlink&quot; title=&quot;nbconvert&quot;&gt;&lt;/a&gt;nbconvert&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;首先我们需要安装ipython 和 nbconvert
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Python" scheme="https://tawnling.github.io/categories/Python/"/>
+    
+    
+      <category term="tools" scheme="https://tawnling.github.io/tags/tools/"/>
+    
+      <category term="Jupyter Notebook" scheme="https://tawnling.github.io/tags/Jupyter-Notebook/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Some websites for loading files to generate a link</title>
+    <link href="https://tawnling.github.io/2019/10/16/some-websites-for-loading-files-to-generate-a-link/"/>
+    <id>https://tawnling.github.io/2019/10/16/some-websites-for-loading-files-to-generate-a-link/</id>
+    <published>2019-10-16T01:00:28.000Z</published>
+    <updated>2022-08-19T03:00:33.624Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;图片&quot;&gt;&lt;a href=&quot;#图片&quot; class=&quot;headerlink&quot; title=&quot;图片&quot;&gt;&lt;/a&gt;图片&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;SM.MS&lt;br&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Others" scheme="https://tawnling.github.io/categories/Others/"/>
+    
+    
+      <category term="tools" scheme="https://tawnling.github.io/tags/tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Image manipulation and processing using Python Modules and Packages</title>
+    <link href="https://tawnling.github.io/2019/10/14/image-manipulation-and-processing-using-python-modules-and-packages/"/>
+    <id>https://tawnling.github.io/2019/10/14/image-manipulation-and-processing-using-python-modules-and-packages/</id>
+    <published>2019-10-14T11:47:00.000Z</published>
+    <updated>2022-08-19T03:00:33.623Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;混杂知识点&quot;&gt;&lt;a href=&quot;#混杂知识点&quot; class=&quot;headerlink&quot; title=&quot;混杂知识点&quot;&gt;&lt;/a&gt;混杂知识点&lt;/h2&gt;&lt;h3 id=&quot;1-包，模块，库的区分&quot;&gt;&lt;a href=&quot;#1-包，模块，库的区分&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="CV" scheme="https://tawnling.github.io/categories/CV/"/>
+    
+    
+      <category term="CV" scheme="https://tawnling.github.io/tags/CV/"/>
+    
+      <category term="Python" scheme="https://tawnling.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP response status codes</title>
+    <link href="https://tawnling.github.io/2019/10/11/http-response-status-codes/"/>
+    <id>https://tawnling.github.io/2019/10/11/http-response-status-codes/</id>
+    <published>2019-10-11T03:03:36.000Z</published>
+    <updated>2022-08-19T03:00:33.622Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;HTTP 响应状态代码指示特定 HTTP 请求是否已成功完成。响应分为五类：信息响应(100–199)，成功响应(200–299)，重定向(300–399)，客户端错误(400–499)和服务器错误 (500–599)。状态代码由 &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web Crawler" scheme="https://tawnling.github.io/categories/Web-Crawler/"/>
+    
+    
+      <category term="Web Crawler" scheme="https://tawnling.github.io/tags/Web-Crawler/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IELTS Writing</title>
+    <link href="https://tawnling.github.io/2019/10/11/ielts-writing/"/>
+    <id>https://tawnling.github.io/2019/10/11/ielts-writing/</id>
+    <published>2019-10-11T01:11:46.000Z</published>
+    <updated>2022-08-19T03:00:33.623Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;小作文&quot;&gt;&lt;a href=&quot;#小作文&quot; class=&quot;headerlink&quot; title=&quot;小作文&quot;&gt;&lt;/a&gt;小作文&lt;/h2&gt;&lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h3&gt;&lt;h4
+        
+      
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/categories/English/"/>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/tags/English/"/>
+    
+      <category term="IELTS" scheme="https://tawnling.github.io/tags/IELTS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雅思口语必备15种连接词</title>
+    <link href="https://tawnling.github.io/2019/10/10/ya-si-kou-yu-bi-bei-15-chong-lian-jie-ci/"/>
+    <id>https://tawnling.github.io/2019/10/10/ya-si-kou-yu-bi-bei-15-chong-lian-jie-ci/</id>
+    <published>2019-10-10T15:25:13.000Z</published>
+    <updated>2022-08-19T03:00:33.654Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;雅思口语必备15种连接词&quot;&gt;&lt;a href=&quot;#雅思口语必备15种连接词&quot; class=&quot;headerlink&quot; title=&quot;雅思口语必备15种连接词&quot;&gt;&lt;/a&gt;雅思口语必备15种连接词&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;雅思口语有四个评分标准： Fluency
+        
+      
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/categories/English/"/>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/tags/English/"/>
+    
+      <category term="IELTS" scheme="https://tawnling.github.io/tags/IELTS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雅思口语替换句型</title>
+    <link href="https://tawnling.github.io/2019/10/10/ya-si-kou-yu-ti-huan-ju-xing/"/>
+    <id>https://tawnling.github.io/2019/10/10/ya-si-kou-yu-ti-huan-ju-xing/</id>
+    <published>2019-10-10T15:21:06.000Z</published>
+    <updated>2022-08-19T03:00:33.654Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;雅思口语替换句型&quot;&gt;&lt;a href=&quot;#雅思口语替换句型&quot; class=&quot;headerlink&quot; title=&quot;雅思口语替换句型&quot;&gt;&lt;/a&gt;雅思口语替换句型&lt;/h1&gt;&lt;h2 id=&quot;1-Talking-About-Personal-Habits&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/categories/English/"/>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/tags/English/"/>
+    
+      <category term="IELTS" scheme="https://tawnling.github.io/tags/IELTS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雅思口语和写作的100个替换词</title>
+    <link href="https://tawnling.github.io/2019/10/10/ya-si-kou-yu-he-xie-zuo-de-100-ge-ti-huan-ci/"/>
+    <id>https://tawnling.github.io/2019/10/10/ya-si-kou-yu-he-xie-zuo-de-100-ge-ti-huan-ci/</id>
+    <published>2019-10-10T15:17:06.000Z</published>
+    <updated>2022-08-19T03:00:33.654Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;雅思口语和写作的100个替换词&quot;&gt;&lt;a href=&quot;#雅思口语和写作的100个替换词&quot; class=&quot;headerlink&quot; title=&quot;雅思口语和写作的100个替换词&quot;&gt;&lt;/a&gt;雅思口语和写作的100个替换词&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;important =
+        
+      
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/categories/English/"/>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/tags/English/"/>
+    
+      <category term="IELTS" scheme="https://tawnling.github.io/tags/IELTS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Massive text de duplication based on simhash algorithm</title>
+    <link href="https://tawnling.github.io/2019/10/10/massive-text-de-duplication-based-on-simhash-algorithm/"/>
+    <id>https://tawnling.github.io/2019/10/10/massive-text-de-duplication-based-on-simhash-algorithm/</id>
+    <published>2019-10-10T06:59:25.000Z</published>
+    <updated>2022-08-19T03:00:33.624Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、参考资料&quot;&gt;&lt;a href=&quot;#一、参考资料&quot; class=&quot;headerlink&quot; title=&quot;一、参考资料&quot;&gt;&lt;/a&gt;一、参考资料&lt;/h2&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Algorithm" scheme="https://tawnling.github.io/categories/Algorithm/"/>
+    
+      <category term="NLP" scheme="https://tawnling.github.io/categories/Algorithm/NLP/"/>
+    
+    
+      <category term="Algorithm" scheme="https://tawnling.github.io/tags/Algorithm/"/>
+    
+      <category term="NLP" scheme="https://tawnling.github.io/tags/NLP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IELTS Speaking</title>
+    <link href="https://tawnling.github.io/2019/10/09/ielts-speaking/"/>
+    <id>https://tawnling.github.io/2019/10/09/ielts-speaking/</id>
+    <published>2019-10-08T16:26:08.000Z</published>
+    <updated>2022-08-19T03:00:33.623Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;2019年9月换题季口语题卡完整版&quot;&gt;&lt;a href=&quot;#2019年9月换题季口语题卡完整版&quot; class=&quot;headerlink&quot; title=&quot;2019年9月换题季口语题卡完整版&quot;&gt;&lt;/a&gt;2019年9月换题季口语题卡完整版&lt;/h2&gt;&lt;p&gt;题卡包括： 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/categories/English/"/>
+    
+    
+      <category term="English" scheme="https://tawnling.github.io/tags/English/"/>
+    
+      <category term="IELTS" scheme="https://tawnling.github.io/tags/IELTS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Text Convert to Pic</title>
+    <link href="https://tawnling.github.io/2019/10/08/text-convert-to-pic/"/>
+    <id>https://tawnling.github.io/2019/10/08/text-convert-to-pic/</id>
+    <published>2019-10-08T04:53:59.000Z</published>
+    <updated>2022-08-19T03:00:33.625Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; PIL &lt;span class=&quot;token
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Scripts" scheme="https://tawnling.github.io/categories/Scripts/"/>
+    
+    
+      <category term="CV" scheme="https://tawnling.github.io/tags/CV/"/>
+    
+      <category term="Scripts" scheme="https://tawnling.github.io/tags/Scripts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Some operation for Aliyun oss</title>
+    <link href="https://tawnling.github.io/2019/10/08/some-operation-for-aliyun-oss/"/>
+    <id>https://tawnling.github.io/2019/10/08/some-operation-for-aliyun-oss/</id>
+    <published>2019-10-08T04:36:57.000Z</published>
+    <updated>2022-08-19T03:00:33.624Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、官方接口文档&quot;&gt;&lt;a href=&quot;#一、官方接口文档&quot; class=&quot;headerlink&quot; title=&quot;一、官方接口文档&quot;&gt;&lt;/a&gt;一、官方接口文档&lt;/h2&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Scripts" scheme="https://tawnling.github.io/categories/Scripts/"/>
+    
+    
+      <category term="Scripts" scheme="https://tawnling.github.io/tags/Scripts/"/>
+    
+      <category term="oss" scheme="https://tawnling.github.io/tags/oss/"/>
+    
+  </entry>
+  
+</feed>

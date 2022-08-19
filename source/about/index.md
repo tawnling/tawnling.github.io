@@ -7,7 +7,7 @@ layout: "about"
 
 <!-- {% pdf ./凌晓.pdf %} -->
 
-<center>
+<!-- <center>
 <object data="./凌晓.pdf" type="application/pdf" width=800px" height="1200px" view=FitH>
     <embed src="./凌晓.pdf"></embed>
      <center>
@@ -15,4 +15,4 @@ layout: "about"
      <a href="./凌晓.pdf">Download PDF</a>.</p>
      </center>
 </object>
-</center>
+</center> -->

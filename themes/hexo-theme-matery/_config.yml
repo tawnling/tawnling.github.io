@@ -69,7 +69,7 @@ music:
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
-  enable: true
+  enable: false
   showTitle: true
   title: 推荐视频
   url: https://cdn.all-dream.com/user%2F69bd23d9df584006959a831b5908bba5%2F20191004_165054_%E6%B2%88%E8%85%BE%20-%20%E4%B8%80%E6%AC%A1%E5%B0%B1%E5%A5%BD%20%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%8F%E6%B4%9B%E7%89%B9%E7%83%A6%E6%81%BC%E3%80%8B%E6%9A%96%E6%B0%B4%E6%9B%B2-%E5%9B%BD%E8%AF%AD720P.qsv.mp4
@@ -105,7 +105,7 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github: https://github.com/Tawn0000
+  github: https://github.com/tawnling
   email: 291534867@qq.com
   facebook:
   twitter: https://twitter.com/Tawn09412753
@@ -288,7 +288,7 @@ valine:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/Tawn0000/Tawn0000.github.io
+  url: https://github.com/tawnling/tawnling.github.io
   title: Fork Me
 
 # The password verification feature of read post. To use this feature,
@@ -468,11 +468,11 @@ subtitle:
 
 # 手机二级菜单.
 navMenu:
-  mleft: false # 二级侧栏子菜单是否对齐左边
+  mleft: true # 二级侧栏子菜单是否对齐左边
   bgColor: " " # 二级侧栏子菜单背景颜色,留空即为全局背景色
 
 # 网页预加载.
-instantpage: false
+instantpage: true
 
 # banner 是否每日切换.
 # 若为 false, 则 banner 默认为 /medias/banner/0.jpg

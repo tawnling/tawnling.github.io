@@ -5,7 +5,7 @@ cover: True
 toc: true
 mathjax: false
 date: 2019-10-18 15:23:03
-img: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574886479231&di=bf98b58f5f7951186ab88d659f2db7d5&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2017-12-21%2F5a3b998bb1b79.jpg
+img:
 password:
 summary: 查找、学习、归纳总结
 tags:

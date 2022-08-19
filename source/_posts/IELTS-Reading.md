@@ -5,7 +5,7 @@ cover: false
 toc: true
 mathjax: false
 date: 2019-10-18 23:51:31
-img: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571424223328&di=53cbb741dea02123ebb71d6fd49ee462&imgtype=0&src=http%3A%2F%2Fww1.sinaimg.cn%2Flarge%2F63207a53jw1egszygl1pxj21ao0qm0yx.jpg
+img:
 password: 937e9f7fc949bf38d1d6713188857892e9c38752a74774f8f9f7e674e5c9d56d
 summary: 一些雅思阅读素材
 tags:
